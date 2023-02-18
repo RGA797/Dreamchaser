@@ -1,2 +1,3 @@
 # Dreamchaser
-A  2d bullet hell game with c# and combat mechanics
+A  2d bullet hell game with platforming and combat mechanics
+A c# and unity project
