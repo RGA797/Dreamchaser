@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f60bde914547bc645afba8662664d5bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myRigidbody: {instanceID: 0}
+  - friendlyProjectilePrefab: {fileID: 4983780275160945191, guid: fdc1ab5f0b693064ca13f24cbebed01e, type: 3}
+  - gameState: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
